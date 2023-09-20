@@ -2,6 +2,9 @@
 
 ### Hi there 👋
 
+## Yj
+<img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=flat&logo=TypeScript&logoColor=white"/>
+
 <!--
 **Yeeanjj/Yeeanjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
